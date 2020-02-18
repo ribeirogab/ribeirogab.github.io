@@ -3,20 +3,20 @@
     "main.css": "/cdc-admin/static/css/main.0fc4df82.chunk.css",
     "main.js": "/cdc-admin/static/js/main.da33b66c.chunk.js",
     "main.js.map": "/cdc-admin/static/js/main.da33b66c.chunk.js.map",
-    "runtime-main.js": "/cdc-admin/static/js/runtime-main.479d106f.js",
-    "runtime-main.js.map": "/cdc-admin/static/js/runtime-main.479d106f.js.map",
+    "runtime-main.js": "/cdc-admin/static/js/runtime-main.cd9632ad.js",
+    "runtime-main.js.map": "/cdc-admin/static/js/runtime-main.cd9632ad.js.map",
     "static/js/2.3230fce6.chunk.js": "/cdc-admin/static/js/2.3230fce6.chunk.js",
     "static/js/2.3230fce6.chunk.js.map": "/cdc-admin/static/js/2.3230fce6.chunk.js.map",
     "index.html": "/cdc-admin/index.html",
-    "precache-manifest.f49f543bea21d86703b271714a93347b.js": "/cdc-admin/precache-manifest.f49f543bea21d86703b271714a93347b.js",
+    "precache-manifest.396baed6706113f7b4735143544e6962.js": "/cdc-admin/precache-manifest.396baed6706113f7b4735143544e6962.js",
     "service-worker.js": "/cdc-admin/service-worker.js",
     "static/css/main.0fc4df82.chunk.css.map": "/cdc-admin/static/css/main.0fc4df82.chunk.css.map",
     "static/js/2.3230fce6.chunk.js.LICENSE.txt": "/cdc-admin/static/js/2.3230fce6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "cdc-admin/static/js/runtime-main.479d106f.js",
-    "cdc-admin/static/js/2.3230fce6.chunk.js",
-    "cdc-admin/static/css/main.0fc4df82.chunk.css",
-    "cdc-admin/static/js/main.da33b66c.chunk.js"
+    "static/js/runtime-main.cd9632ad.js",
+    "static/js/2.3230fce6.chunk.js",
+    "static/css/main.0fc4df82.chunk.css",
+    "static/js/main.da33b66c.chunk.js"
   ]
 }
